@@ -1,8 +1,12 @@
 # PiperTTSGUIPython
 
 
+# This was only tested on Windows
+# Please help with other languages
+
 ## Python Version
 python --version
+
 3.10.6
 
 ## Pip Installs
