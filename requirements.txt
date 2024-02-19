@@ -1,0 +1,16 @@
+pip install opencv-contrib-python
+pip install pillow
+pip install	customtkinter
+pip install tkinterdnd2
+pip install	ttkthemes
+pip install ffmpeg-python
+pip install packaging
+pip install pyinstaller
+pip install pygame
+pip	install	onnx
+pip install onnxruntime-gpu
+pip install gruut-ipa
+pip install gruut
+pip install soundfile
+pip install scipy
+pip install pyworld
