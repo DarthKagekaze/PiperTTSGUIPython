@@ -15,7 +15,7 @@
 
 
 # This was only tested on Windows
-# Please help with other languages
+
 
 ## Python Version
 python --version
@@ -106,7 +106,7 @@ Please share your ideas and critiques
 
 <br />
 
-Should any pip packages be changed, or the python version be changed, so that this will be able to run on computers that most people would have or get easily???
+Should any pip packages be changed, or the python version be changed, so that this will be able to work for the most people with ease?
 
 If you have a linux computer, are there any pip packages that would make it easier to run on linux, if it can at all???
 
