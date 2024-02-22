@@ -10,7 +10,7 @@ python --version
 3.10.6
 
 ## Pip Installs
-### !!!IMPORTANT!!! &nbsp; &nbsp; &nbsp; You only need onnxruntime-gpu or onnxruntime ..... You DO NOT need both.
+### &nbsp; &nbsp; &nbsp; &nbsp; !!!IMPORTANT!!! &nbsp; &nbsp; &nbsp; You only need onnxruntime-gpu OR onnxruntime ..... You DO NOT need both.
 <br />
 
 ```
