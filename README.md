@@ -12,6 +12,7 @@ python --version
 ## Pip Installs
 ### !!!IMPORTANT!!! &nbsp; &nbsp; &nbsp; You only need onnxruntime-gpu or onnxruntime ..... You DO NOT need both.
 <br />
+
 ```
 pip install	customtkinter							#Used to make tkinter
 
