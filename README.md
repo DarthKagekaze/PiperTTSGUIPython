@@ -67,10 +67,13 @@ pip install pyworld									#Used for RVC .onnx inferencing
 python.exe PiperGUI_customtkinter.py
 
 ## How to use GUI
-Drag your onnx model over where the text [Drag Onnx Model Here!!]
+1.) Drag your onnx model over where the text [Drag Onnx Model Here!!]
+
 2.) type text into the big box
+
 3.) press PiperTTS Button
-4.) A file named Z___phonemized_GUI_Sentence.txt will be created and a .wav
+
+4.) A file named Z___phonemized_GUI_Sentence.txt will be created and your final Piper audio at .wav
 
 <br />
 <br />
@@ -92,6 +95,8 @@ Easier training with Piper-Recording-Studio
 
 
 language detection
+
+# Pleaese help if possible with:
 
 How to detect model quality through an onnx model??????  Quality High (Check the ONNX Model for the presence of the IF Operator) (Low vs Medium???)
 
