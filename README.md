@@ -80,7 +80,7 @@ python.exe PiperGUI_customtkinter.py
 <br />
 <br />
 
-# To add later
+# To add in future
 Save settings with a .json
 
 Easier to navigate GUI for disabilities with ryan speaking as helper, sound
@@ -95,6 +95,8 @@ Easier training with Piper-Recording-Studio
 
 
 language detection
+
+Streaming
 
 # Pleaese help if possible with:
 
