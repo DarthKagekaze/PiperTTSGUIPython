@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 # PiperTTSGUIPython
 
 
@@ -51,9 +64,47 @@ pip install pyworld									#Used for RVC .onnx inferencing
 
 
 ## Run GUI
-
+python.exe PiperGUI_customtkinter.py
 
 ## How to use GUI
-python.exe PiperGUI_customtkinter.py
+Drag your onnx model over where the text [Drag Onnx Model Here!!]
+2.) type text into the big box
+3.) press PiperTTS Button
+4.) A file named Z___phonemized_GUI_Sentence.txt will be created and a .wav
+
+<br />
+<br />
+<br />
+<br />
+
+# To add later
+Save settings with a .json
+
+Easier to navigate GUI for disabilities with ryan speaking as helper, sound
+
+Add Sidebar to switch gui to modes: Inference, Train, Learn about Piper/rhasspy/ONNX, +Other
+
+Languages
+
+
+
+Easier training with Piper-Recording-Studio
+
+
+language detection
+
+How to detect model quality through an onnx model??????  Quality High (Check the ONNX Model for the presence of the IF Operator) (Low vs Medium???)
+
+Please share your ideas and critiques
+
+
+
+<br />
+
+Should any pip packages be changed, or the python version be changed, so that this will be able to run on computers that most people would have or get easily???
+
+If you have a linux computer, are there any pip packages that would make it easier to run on linux, if it can at all???
+
+<br />
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
